@@ -1,0 +1,1 @@
+C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\CordovaApp.Phone.jsproj;neutral

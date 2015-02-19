@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-UIGR6LHBIPC</Machine>
+    <WindowsUser>Michael</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>999d7c70-80f7-11e4-9acc-530654b588ad</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\build\phone\bld\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\images\SplashScreen.scale-240.png">
+      <PackagePath>images\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\apad.png">
+      <PackagePath>www\apad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\deathScreen.png">
+      <PackagePath>www\deathScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\font0.png">
+      <PackagePath>www\font0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\icon0.png">
+      <PackagePath>www\icon0.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\items.png">
+      <PackagePath>www\items.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\pad.png">
+      <PackagePath>www\pad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\sprites.png">
+      <PackagePath>www\sprites.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\titleScreen.png">
+      <PackagePath>www\titleScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\enchant.js">
+      <PackagePath>www\enchant.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\battle.js">
+      <PackagePath>www\scripts\battle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\game.js">
+      <PackagePath>www\scripts\game.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\map.js">
+      <PackagePath>www\scripts\map.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\menu.js">
+      <PackagePath>www\scripts\menu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\npc.js">
+      <PackagePath>www\scripts\npc.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\player.js">
+      <PackagePath>www\scripts\player.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\quest.js">
+      <PackagePath>www\scripts\quest.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\questData.js">
+      <PackagePath>www\scripts\questData.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\shop.js">
+      <PackagePath>www\scripts\shop.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\ui.enchant.js">
+      <PackagePath>www\ui.enchant.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\css\game.css">
+      <PackagePath>www\css\game.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\HTML5RPG.sln">
+      <PackagePath>www\HTML5RPG.sln</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\HTML5RPG.v12.suo">
+      <PackagePath>www\HTML5RPG.v12.suo</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\HTML5RPG.v14.suo">
+      <PackagePath>www\HTML5RPG.v14.suo</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\HyperSpaceAdventure.mp3">
+      <PackagePath>www\HyperSpaceAdventure.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\NTD4.mp3">
+      <PackagePath>www\NTD4.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\Project_Readme.html">
+      <PackagePath>www\Project_Readme.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\sprites.psd">
+      <PackagePath>www\sprites.psd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\www\Thumbs.db">
+      <PackagePath>www\Thumbs.db</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michael\Documents\GitHub\MultiplayerHTML5RPG\Cordova Update\HTML5RPG\bld\Debug\platforms\windows\build\phone\debug\anycpu\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
